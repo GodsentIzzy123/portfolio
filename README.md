@@ -4,12 +4,14 @@
 
 ## Education							       		
 - M.S., Statistics	| Georgia State Universiy (_May 2024_)	 			        		
-- B.S., Electrical/Electronic Engineering | University of Benin (_October 2018_)
+- B.S., Elect/Elect Eng | University of Benin (_October 2018_)
 
 ## Work Experience
 **Graduate Teaching Assistant @Georgia State University(_August 2022 - Present_)**
 - Teaching and mentoring Undergraduate Students in Mathematics subjects such as College Algebra, Elementary Probability and Statistics, Linear Algebra, Calculus I-III
+  
 – Introduced Undergraduate students to programming in Python, R and SQL
+
 – Assisted Math Course Instructors in proctoring of tests, grading, recording of Quizzes and Exams
 
 **Geospatial Data Scientist @ Jeffa Geosurvey**

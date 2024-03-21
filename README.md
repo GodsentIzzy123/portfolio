@@ -12,11 +12,11 @@
 - Introduced Undergraduate students to programming in Python, R and SQL
 - Assisted Math Course Instructors in proctoring of tests, grading, recording of Quizzes and Exams
 
-**Geospatial Data Scientist @ Jeffa Geosurvey**
--Responsible for collecting, cleaning and processing geospatial datasets from diverse sources
-– Utilized Geospatial and Visualization Python libraries to create effective and informative data insights and
+**Geospatial Data Scientist @ Jeffa Geosurvey**  
+- Responsible for collecting, cleaning and processing geospatial datasets from diverse sources.
+- Utilized Geospatial and Visualization Python libraries to create effective and informative data insights and
 visualizations
-– Developed predictive models to assist in various projects
+- Developed predictive models to assist in various projects
 – Communicated the findings and recommendations derived from Analytics and Insights to Stakeholders and Management
 
 **Data Scientist @ Wallets Africa**

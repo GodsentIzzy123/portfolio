@@ -19,10 +19,9 @@ visualizations
 - Developed predictive models to assist in various projects
 – Communicated the findings and recommendations derived from Analytics and Insights to Stakeholders and Management
 
-**Data Scientist @ Wallets Africa**
--Collaborated with Product Managers to perform Cohort Analysis that identified a need to reach out to inactive
+**Data Scientist @ Wallets Africa** 
+- Collaborated with Product Managers to perform Cohort Analysis that identified a need to reach out to inactive
 customers and this led to a monthly revenue increase of about 20 per cent.
 – Designed and Implemented a customer attrition random forest model that improved monthly retention by 30
 basis points for clients likely to opt out by providing relevant product features.
-– Implemented a personalized recommendation model that suggested novel banking products to customers based on their data and history. It led to a 30 per cent increase in conversion rate and about 1,000,000 increase
-in monthly revenue
+– Implemented a personalized recommendation model that suggested novel banking products to customers based on their data and history. It led to a 30 per cent increase in conversion rate and about 1,000,000 increase in monthly revenue.
